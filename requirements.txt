@@ -1,0 +1,8 @@
+geopy==2.4.1
+pandas==3.0.1
+Pillow==12.1.1
+pillow_heif==1.3.0
+scikit_learn==1.8.0
+numpy
+certifi
+
